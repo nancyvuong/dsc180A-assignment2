@@ -1,0 +1,4 @@
+XAMARIN_BUILD_ID=305dfbfb-7ff4-4758-bfb8-c61e8a2455b8
+XA_HTTP_CLIENT_HANDLER_TYPE=System.Net.Http.HttpClientHandler, System.Net.Http
+XA_TLS_PROVIDER=default
+MONO_GC_PARAMS=major=marksweep
