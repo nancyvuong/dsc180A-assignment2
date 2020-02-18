@@ -10,7 +10,7 @@ smalis = []
 #please don't call data before test-data, the way I structured my code made it
 #so that data and test-data stores apps in the same directory. I did this
 #because I did not know how to specify to process, which directory to clean
-#based on the argument before target
+#based on the argument before the process argument
 def getAllSmaliFiles(dirName):
     # create a list of file and sub directories 
     # names in the given directory 
